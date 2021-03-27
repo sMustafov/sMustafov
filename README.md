@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sevgin Mustafov 👋
 
-<!--
-**sMustafov/sMustafov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Software Engineer at one of the Big 4 accounting companies through [Bulpros](https://bulpros.com/)
+- 🌱 I’m currently learning React.js and Kubernetes
+- 🙋 Member of:
+  - ABLE - The Association of Bulgarian Leaders and Entrepreneurs
+  - BESCO - The Bulgarian Startup Association
+  - MENSA - The largest high IQ society in the world
+- ⚡ Interests: Football, Books, Startups, Fitness.
+- 💻 Former Founder and CEO of GlobalizeIT - Software and Blockchain Development company
+- 📫 How to reach me: https://www.linkedin.com/in/sevgin-mustafov
+- 😄 Pronouns: He/Him
