@@ -1,6 +1,6 @@
 ### Hi there, I'm Sevgin Mustafov 👋
 
-- 🔭 I’m currently working as Senior Software Engineer
+- 🔭 I’m currently working as Software Engineer at [OVO Energy](https://www.ovoenergy.com/)
 - 🙋 Member of:
   - ABLE - The Association of Bulgarian Leaders and Entrepreneurs
   - BESCO - The Bulgarian Startup Association
